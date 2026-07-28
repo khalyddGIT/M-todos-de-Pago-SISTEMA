@@ -30,5 +30,6 @@ build/
 *.sw?
 # Test coverage
 coverage/.agents/
+.agents/
 .claude/
 .kiro/
