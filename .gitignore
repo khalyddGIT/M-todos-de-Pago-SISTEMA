@@ -29,4 +29,6 @@ build/
 *.sln
 *.sw?
 # Test coverage
-coverage/
+coverage/.agents/
+.claude/
+.kiro/
