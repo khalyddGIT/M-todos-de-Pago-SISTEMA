@@ -1,0 +1,20 @@
+{
+  "name": "carrito-pagos-backend",
+  "version": "1.0.0",
+  "description": "Sistema de carrito de compras con métodos de pago",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "node --watch src/app.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.0",
+    "express": "^4.21.0",
+    "mercadopago": "^2.0.0",
+    "mssql": "^12.7.0",
+    "sql.js": "^1.11.0",
+    "stripe": "^22.3.2",
+    "uuid": "^10.0.0"
+  }
+}

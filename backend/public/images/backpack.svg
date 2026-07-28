@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#1d4ed8"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f59e0b"/>
+      <stop offset="100%" stop-color="#d97706"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="32" fill="#f8fafc"/>
+  <!-- Handle -->
+  <path d="M206 120 C 206 70, 306 70, 306 120" fill="none" stroke="#1e293b" stroke-width="16" stroke-linecap="round"/>
+  <!-- Main Bag Body -->
+  <rect x="136" y="120" width="240" height="310" rx="36" fill="url(#bg)"/>
+  <!-- Flap Top -->
+  <path d="M136 120 Q 256 160 376 120 L 376 220 Q 256 260 136 220 Z" fill="#1e3a8a"/>
+  <!-- Front Pocket -->
+  <rect x="166" y="270" width="180" height="130" rx="16" fill="#2563eb" stroke="#1d4ed8" stroke-width="4"/>
+  <!-- Straps / Buckles -->
+  <rect x="196" y="160" width="24" height="150" rx="6" fill="url(#accent)"/>
+  <rect x="292" y="160" width="24" height="150" rx="6" fill="url(#accent)"/>
+  <rect x="192" y="250" width="32" height="24" rx="4" fill="#fef08a" stroke="#d97706" stroke-width="2"/>
+  <rect x="288" y="250" width="32" height="24" rx="4" fill="#fef08a" stroke="#d97706" stroke-width="2"/>
+  <!-- Brand Label -->
+  <rect x="216" y="320" width="80" height="40" rx="6" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+  <circle cx="256" cy="340" r="10" fill="#ef4444"/>
+</svg>

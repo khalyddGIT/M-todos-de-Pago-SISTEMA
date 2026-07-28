@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <rect width="512" height="512" rx="32" fill="#f8fafc"/>
+  <!-- Mouse Body -->
+  <path d="M176 180 C 176 90, 336 90, 336 180 L 336 340 C 336 430, 176 430, 176 340 Z" fill="#1e293b"/>
+  <!-- Ergonomic Side Thumb Rest -->
+  <path d="M176 240 Q 120 290 176 340 Z" fill="#334155"/>
+  <!-- Center Divide -->
+  <line x1="256" y1="100" x2="256" y2="210" stroke="#475569" stroke-width="4"/>
+  <!-- Scroll Wheel -->
+  <rect x="244" y="130" width="24" height="48" rx="12" fill="#6366f1" stroke="#818cf8" stroke-width="2"/>
+  <!-- Thumb Buttons -->
+  <rect x="136" y="270" width="16" height="30" rx="4" fill="#6366f1"/>
+  <rect x="136" y="305" width="16" height="30" rx="4" fill="#6366f1"/>
+</svg>

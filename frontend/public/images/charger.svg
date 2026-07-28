@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <rect width="512" height="512" rx="32" fill="#f8fafc"/>
+  <!-- Wall Prongs -->
+  <rect x="216" y="80" width="16" height="60" rx="4" fill="#94a3b8"/>
+  <rect x="280" y="80" width="16" height="60" rx="4" fill="#94a3b8"/>
+  <!-- Adapter Main Brick -->
+  <rect x="176" y="136" width="160" height="230" rx="24" fill="#0f172a"/>
+  <!-- USB Ports -->
+  <rect x="216" y="310" width="80" height="16" rx="4" fill="#3b82f6"/>
+  <rect x="216" y="336" width="80" height="16" rx="4" fill="#3b82f6"/>
+  <!-- GaN 65W Text/Logo Plate -->
+  <circle cx="256" cy="220" r="30" fill="#1e293b"/>
+  <path d="M256 200 L 244 224 L 256 224 L 252 244 L 268 216 L 256 216 Z" fill="#f59e0b"/>
+</svg>
